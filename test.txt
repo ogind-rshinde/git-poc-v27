@@ -1,3 +1,2 @@
-test1
-test2
-test3
+Creating a conflict
+Making changes to this file in order to test out the batch scripts
